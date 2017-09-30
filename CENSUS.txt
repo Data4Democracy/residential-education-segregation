@@ -1,0 +1,39 @@
+Data name: ELSI_csv_export_6364237461893795112970.csv
+Source: https://nces.ed.gov
+Date Downloaded: September 30, 2017
+
+Total number of students enrolled in 1990, 2000 and 2010 by:
+Name of School
+County
+Race
+FRL
+
+Columns Available:
+
+School Name - This is the name of the public school.
+County Name [Public School] - This is the name of the county within which the school resides.
+                  NOTE: Prior to the school year 2002-03, county name was not collected on the Public Elementary / 
+                  Secondary School Universe survey. For the earlier years, the county name is from the Local Education Agency 
+                  (School District) Universe survey.
+Total Students All Grades (Excludes AE) [Public School]
+              This is the total number of students as reported by each school. 
+              A student is an individual for whom instruction is provided in an elementary or secondary educational program 
+              under the jurisdiction of a school, school system, or other educational institution. This count excludes adult education students, which is the number of students enrolled in adult education courses provided by the public elementary/secondary school system.
+Total Students - Calculated Sum of Reported Grade Totals [Public School] - This is the total calculated school membership: The sum of reported grade totals as reported by each school. 
+                                                                                    If one of the grade totals is missing, then calculated school membership is missing.
+Free Lunch Eligible [Public School] - This is the total count of students eligible to participate in the Free Lunch Program under the National School Act. 
+                                              The Free Lunch program provides cash subsidies for free and reduced-price lunches to students based on family size and income criteria.
+Reduced-price Lunch Eligible Students [Public School] - This is the total count of students eligible to participate in the 
+                                                                Reduced-price Lunch Program under the National School Lunch Act.
+Free and Reduced Lunch Students [Public School] - This is the total of Free Lunch Eligible students and Reduced-price Lunch Eligible students. 
+                                                          The total is only available if both details were reported.
+
+American Indian/Alaska Native Students [Public School] - This is the number of students having origins in any of the original peoples of North America, and who maintain cultural identification through tribal affiliation or community recognition as reported by each school.
+Asian or Asian/Pacific Islander Students [Public School] - This is the number of students having origins in any of the original peoples of the Far East, Southeast Asia, the Indian subcontinent, or the Pacific Islands as reported by each school.
+                                                            NOTE: Beginning with the 2008-09 school year, the number is Asian/Pacific Islander (state reported five race/ethnicity categories) or Asian (state reported seven race/ethnicity categories).
+Hispanic Students [Public School] - This is the number of students having Mexican, Puerto Rican, Cuban, Central or South American, or other Spanish culture or origin, regardless of race as reported by each school.
+Black Students [Public School] - This is the number of students having origins in any of the black racial groups of Africa as reported by each school.
+White Students [Public School] - This is the number of students having origins in any of the original peoples of Europe, North Africa, or the Middle East, as reported by each school.
+Hawaiian Nat./Pacific Isl. Students [Public School] - This is the number of students having origins in any of the original peoples of the Far East, Southeast Asia, the Indian subcontinent, or the Pacific Islands as reported by each school.
+Two or More Races Students [Public School] - This is the number of students having any combination of two or more races and not Hispanic/Latino ethnicity as reported by each school.
+Total Race/Ethnicity [Public School] - This is the total number of students reported by race-ethnicity. This does not include students of unknown or unreported racial/ethnic backgrounds, so it may not match the total enrollment reported for the school.
