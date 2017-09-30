@@ -1,0 +1,8 @@
+High School Graduation Rate 1989-2010 per District.csv
+
+Downloaded from National Center for Education Statistics on 9/30/2017
+
+https://nces.ed.gov/ccd/elsi/tableGenerator.aspx
+
+The file has four rows, one for each district: Hamilton, Chattanooga, Shelby, and Memphis.
+The rest of the variables represent the number of high school diploma recipients for each academic year from 1989 to 2010
